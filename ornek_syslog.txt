@@ -1,0 +1,8 @@
+Mar 12 08:15:01 linux-server systemd[1]: Started Run anacron jobs.
+Mar 12 08:17:42 linux-server NetworkManager[850]: <info> device (eth0): state change: ip-config -> ip-check
+Mar 12 09:05:12 linux-server sshd[1432]: Accepted publickey for admin from 192.168.1.50 port 54321 ssh2
+Mar 12 10:22:34 linux-server sudo[2048]: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 12 11:45:10 linux-server kernel: [ 1234.567890] usb 1-1: new high-speed USB device number 3 using xhci_hcd
+Mar 12 14:30:55 linux-server systemd[1]: Stopping User Manager for UID 1000...
+Mar 12 15:10:20 linux-server apache2[3102]: [error] [client 10.0.0.5] File does not exist: /var/www/html/favicon.ico
+Mar 12 16:25:00 linux-server kernel: [ 4567.890123] Out of memory: Killed process 4050 (java) total-vm:2048000kB
